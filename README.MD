@@ -1,0 +1,1 @@
+Ce git a pour but d'apprendre le language #C en créant des petits projets.
